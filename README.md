@@ -1,1 +1,3 @@
-# -Gamemode-Wut_ConneR-Clean
+# Gamemode-Wut_Conner-Clean
+
+ sampctl
